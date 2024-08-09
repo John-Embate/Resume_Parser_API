@@ -41,6 +41,7 @@ If deployed locally on your machine, you can access the API documentation by vis
 
 ### 🧪 Testing the API
 To start making client requests, run the client script included with the project:
+Ensure to have a sample resume on your working directory and name it "sample_resume.pdf"
    ```bash
    python resume_parser_client_sample.py
    ````
